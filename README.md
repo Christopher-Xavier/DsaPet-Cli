@@ -1,7 +1,3 @@
-
-# ![WebApp]
-# ![WebApp]
-
 # Petful -- web Application
 
 > PETFUL is a simple pet-adoption (cats and dogs) management app
