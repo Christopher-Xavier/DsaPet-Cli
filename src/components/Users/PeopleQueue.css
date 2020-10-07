@@ -1,0 +1,8 @@
+.Users {
+    background-color: lightcoral;
+    /* width: 10%; */
+    flex-grow:1;
+    border-radius: 0 0 7px 7px;;
+   
+    /* border: solid 1px black; */
+}
