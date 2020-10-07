@@ -5,7 +5,7 @@
 # Petful -- web Application
 
 > PETFUL is a simple pet-adoption (cats and dogs) management app
-### Team Keith & Ahmed
+###
 ## Table of contents
 
 - [App Description](#app-description)
